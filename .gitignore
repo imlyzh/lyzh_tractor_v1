@@ -1,0 +1,10 @@
+# mill
+out/
+.bsp/
+.idea/
+.vscode/
+.metals/
+.idea_modules/
+test_run_dir/
+
+build/
